@@ -1,0 +1,9 @@
+Book Recommendation system
+Dataset url: http://www2.informatik.uni-freiburg.de/~cziegler/BX/
+Recommendations based on correlations
+We use Pearsons’R correlation coefficient to measure the linear correlation between two variables, in our case, the ratings for two books.
+
+First, we need to find out the average rating, and the number of ratings each book received.
+Observations: In this data set, the book that received the most rating counts was not highly rated at all. As a result, if we were to use recommendations based on rating counts, we would definitely make mistakes here. So, we need to have a better system.
+
+To ensure statistical significance, users with less than 200 ratings, and books with less than 100 ratings are excluded.
