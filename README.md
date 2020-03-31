@@ -6,5 +6,7 @@ thank you.
 
 Code of Book selection through corelation: Rithwik Raj
 11805228
-Code for the Pearson matrix amd rating: Naveen
+Code for the Pearson matrix amd rating: Naveen Kumar
+11802980
 Code for the layout and selection of books : Vineeth Reddy
+11802866
