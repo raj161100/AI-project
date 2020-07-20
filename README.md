@@ -4,9 +4,7 @@ We got the help of our faculty and various websites like Youtbe and Geeks for Ge
 
 Thank you.
 
-Code of Book selection through corelation: Rithwik Raj
-11805228
-Code for the Pearson matrix amd rating: Naveen Kumar
-11802980
-Code for the layout and selection of books : Vineeth Reddy
-11802866
+Codes Included: 
+Code of Book selection through corelation
+Code for the Pearson matrix amd rating 
+Code for the layout and selection of books 
